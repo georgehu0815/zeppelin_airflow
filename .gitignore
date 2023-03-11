@@ -5,3 +5,4 @@
 __pychche__
 */__pychche__
 logs/scheduler/latest
+spark-*

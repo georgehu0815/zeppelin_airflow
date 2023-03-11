@@ -1,4 +1,6 @@
 https://pypi.org/project/airflow-providers-zeppelin/
+cp -R /mnt/c/linux/spark-3.3.1-bin-hadoop3 /mnt/c/Users/georgehu/llm/zeppelin_airflow/
+
 
 pip install airflow-providers-zeppelin
 # Successfully installed airflow-providers-zeppelin-0.0.1
