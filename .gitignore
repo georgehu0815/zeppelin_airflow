@@ -1,0 +1,7 @@
+*.pyc
+*/*/*.pyc
+*.log
+*/*/*.log
+__pychche__
+*/__pychche__
+logs/scheduler/latest
